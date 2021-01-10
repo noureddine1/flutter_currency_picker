@@ -259,13 +259,6 @@ List<Map<String, String>> currencies = [
     "number": "360"
   },
   {
-    "code": "ILS",
-    "name": "Israel Shekel",
-    "symbol": "₪",
-    "flag": "ILS",
-    "number": "376"
-  },
-  {
     "code": "INR",
     "name": "Indian Rupee",
     "symbol": "₹",
